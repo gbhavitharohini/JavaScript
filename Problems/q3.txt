@@ -1,0 +1,5 @@
+C TO F
+
+function ctof(number){
+    return(celsius*9/5)+32;
+}
