@@ -9,5 +9,6 @@ switch(place){
     case 'third':
         console.log('bronze')
         break;
-
+    default:
+        console.log('no medal')
 }
